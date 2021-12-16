@@ -217,3 +217,7 @@ Sidebar
   .nav-link:hover {
     color:green !important;
   }
+
+.social-links li {
+  margin: auto;
+}
